@@ -1,0 +1,14 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos temporários e caches
+__pycache__/
+*.pyc
+
+# CSVs e dados gerados
+*.csv
